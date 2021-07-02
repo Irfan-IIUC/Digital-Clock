@@ -1,0 +1,14 @@
+body{
+  background: black;
+}
+
+.clock{
+  color: #17D4EF;
+  font-family: 'Tourney', cursive;
+  font-size: 100px;
+  letter-spacing: 7px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
